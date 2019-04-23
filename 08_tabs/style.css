@@ -1,0 +1,104 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: inherit;
+  color: inherit;
+  box-sizing: inherit;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+*:focus { outline: none; }
+
+html { box-sizing: border-box; }
+
+body {
+  background-color: #ecf0f1;
+  min-width: 300px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5 {
+  display: block;
+  font-weight: 400;
+}
+
+li, span, p, a, h1, h2, h3, h4, h5 { line-height: 1; }
+
+p { display: block; }
+
+a { text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 0;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+/* Reset */
+
+
+html, body { height: 100%; }
+
+
+/* TABS */ 
+
+.tab-container {
+  margin: 60px auto;
+  width: 70%;
+  max-width:500px;
+}
+
+.tab-auswahl li {
+  position:relative;
+  background-color: #fff;
+  color:#bcbcbc;
+  display: inline-block;
+  padding: 20px 40px;
+  opacity: 0.8;
+  cursor:pointer;
+  z-index:0;
+}
+
+.tab-auswahl li:hover {
+  color:#464646;
+}
+
+.tab-auswahl li.active {
+  color:#464646;
+  opacity: 1;
+}
+
+.tab-auswahl li.active:hover {
+  color:#464646;
+}
+
+.tab-inhalt>div {
+  background-color: #fff;
+  box-sizing:border-box;
+  width: 100%;
+  padding: 50px;   
+  min-height:200px;
+}
+
+.line {
+  position:absolute;
+  width: 0;
+  height: 7px;
+  background-color: aqua;
+  top: 0;
+  left: 0;
+}
