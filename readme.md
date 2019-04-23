@@ -6,14 +6,14 @@
 ## Table of contents
 |Unit   |Link   |
 | ---   | ---   |
-|:one:    |[Basics: document ready function, selectors, DOM manipulation...](https://github.com)|
-|:two:   |[Animation: Show, hide, fade, slide...](https://github.com)|
-|:three:    |[Events: Click, hover, multiple events...](https://github.com)|
-|:four:    |[Timeline: Creating a timeline with JS and jQuery...](https://github.com/)|
-|:five:    |[Slider: creating a slider with jQuery ...](https://github.com)|
-|:six:    |[Accordion: creating an accordion with jQuery ...](https://github.com)|
-|:seven:    |[Ajax: JQuery AJAX, APIs ...](https://github.com)|
-|:eight:    |[Tabs: creating a tab system with jQuery ...](https://github.com)|
+|:one:    |[Basics: document ready function, selectors, DOM manipulation...](https://github.com/stribis/jquery_wdd918#books-unit-1)|
+|:two:   |[Animation: Show, hide, fade, slide...](https://github.com/stribis/jquery_wdd918#books-unit-2)|
+|:three:    |[Events: Click, hover, multiple events...](https://github.com/stribis/jquery_wdd918#books-unit-3)|
+|:four:    |[Timeline: Creating a timeline with JS and jQuery...](https://github.com/stribis/jquery_wdd918#books-unit-4)|
+|:five:    |[Slider: creating a slider with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-5)|
+|:six:    |[Accordion: creating an accordion with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-6)|
+|:seven:    |[Ajax: JQuery AJAX, APIs ...](https://github.com/stribis/jquery_wdd918#books-unit-7)|
+|:eight:    |[Tabs: creating a tab system with jQuery ...](https://github.com/stribis/jquery_wdd918#books-unit-8)|
 ---
 ### :books: Unit 1
 * :school_satchel: Basics
